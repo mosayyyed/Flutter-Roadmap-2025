@@ -1,5 +1,5 @@
 # 📚 Flutter Roadmap: Your Guide to Mastering Cross-Platform Development  
-![7bf45db7-c5a0-4f16-8b72-bd8a9f193ffc](https://github.com/user-attachments/assets/7cb8350d-ed79-43bc-b62f-12ff391a4f2e)
+![7bf45db7-c5a0-4f16-8b72-bd8a9f193ffc](https://github.com/user-attachments/assets/61007fda-0a3a-4d0b-a0a2-0427910be651)
 
 ---
 
